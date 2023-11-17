@@ -8,7 +8,7 @@ function Chats() {
             <div className='flex h-full w-1/4'>
                 <ChatList/>
             </div>
-            <div className='flex h-full w-3/4 bg-gray-700'>
+            <div className='flex h-full w-3/4'>
                 <ChatDetail/>
             </div>
         </>
